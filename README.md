@@ -1,6 +1,6 @@
-# Python Template
+# Essentia Extract
 
-Has pre-commit hooks that I like with line length of 120.
+Python script wrapper for the 
 
 ```shell
 python3.9 -m venv venv

@@ -144,3 +144,6 @@ dmypy.json
 # Win
 ehthumbs.db
 Thumbs.db
+
+# Project
+data
